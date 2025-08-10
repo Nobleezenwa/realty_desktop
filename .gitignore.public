@@ -1,0 +1,7 @@
+#ignore dirs
+src/
+lib/
+
+#ignore files
+pubpu.sh
+CMakeLists.txt
