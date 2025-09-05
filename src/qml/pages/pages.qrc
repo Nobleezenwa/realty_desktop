@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/pages">
+        <file>Dashboard/Dashboard.qml</file>
+        <file>Communities/Communities.qml</file>
+        <file>Marketing/Marketing.qml</file>
+        <file>Leads/Leads.qml</file>
+        <file>Support/Support.qml</file>
+        <file>Personnel/Personnel.qml</file>
+        <file>Payments/Payments.qml</file>
+        <file>ProfileSettings/ProfileSettings.qml</file>
+    </qresource>
+</RCC>

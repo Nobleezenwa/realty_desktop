@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/features">
+        <file>CommunityPage/CommunityLeadsList.qml</file>
+        <file>CommunityPage/CommunityPage.qml</file>
+        <file>CommunityPage/CommunityPropertiesList.qml</file>
+        <file>LeadPage/LeadCommunitiesList.qml</file>
+        <file>LeadPage/LeadPage.qml</file>
+        <file>LeadPage/LeadPropertiesList.qml</file>
+        <file>PropertyPage/PropertyCommunitiesList.qml</file>
+        <file>PropertyPage/PropertyLeadsList.qml</file>
+        <file>PropertyPage/PropertyPage.qml</file>
+        <file>Sidebar/Sidebar.qml</file>
+        <file>Sidebar/SidebarMenuItem.qml</file>
+    </qresource>
+</RCC>

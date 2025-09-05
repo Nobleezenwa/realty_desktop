@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>gauge.svg</file>
+        <file>arrow-right-left.svg</file>
+        <file>building-2.svg</file>
+        <file>contact-round.svg</file>
+        <file>megaphone.svg</file>
+        <file>message-square-text.svg</file>
+        <file>users-round.svg</file>
+        <file>settings.svg</file>
+        <file>moon.svg</file>
+        <file>sun.svg</file>
+        <file>info.svg</file>
+        <file>wrench.svg</file>
+        <file>hero.jpg</file>
+        <file>avatar.png</file>
+        <file>minus.svg</file>
+        <file>window-restore.svg</file>
+        <file>x.svg</file>
+        <file>network.svg</file>
+        <file>arrow-left.svg</file>
+        <file>sample-bc.png</file>
+        <file>sample-pp.png</file>
+        <file>sample-prop.jpg</file>
+        <file>facebook.png</file>
+        <file>google.png</file>
+        <file>instagram.png</file>
+        <file>linkedIn.png</file>
+        <file>tiktok.png</file>
+        <file>x.png</file>
+        <file>no-image.jpg</file>
+        <file>blog.png</file>
+        <file>email.png</file>
+        <file>sms.png</file>
+    </qresource>
+</RCC>
